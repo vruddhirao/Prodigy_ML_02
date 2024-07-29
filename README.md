@@ -22,3 +22,6 @@ Model Evaluation: Evaluating the model's performance using metrics like the Elbo
 ![image](https://github.com/user-attachments/assets/727320b5-ce9c-4802-96cb-4a7af043b324)
 ![Screenshot 2024-07-29 203434](https://github.com/user-attachments/assets/31ec2942-03eb-4a11-ae29-fd435f5931ca)
 ![image](https://github.com/user-attachments/assets/91b2dd62-c99d-4a83-96ab-1fe70e283d1d)
+
+# Results
+The performance of the K-means clustering model will be documented in the final report, including visualizations of the customer segments.
